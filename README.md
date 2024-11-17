@@ -1,5 +1,7 @@
 sandbox_rkt
 ===========
-README text here.
-https://beautifulracket.com/appendix/racketcon.html
-https://practicaltypography.com/
+Mastering Racket DSL.
+
+- [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
+- [Beautiful Racket](https://beautifulracket.com/appendix/racketcon.html)
+
